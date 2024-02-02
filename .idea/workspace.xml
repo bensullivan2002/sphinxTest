@@ -4,87 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="460a66c2-ac49-46ac-8ae4-fa4adc36e2ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sphinxTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/doctrees/Usage.doctree" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/doctrees/environment.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/doctrees/index.doctree" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/html/.buildinfo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/html/Usage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/html/_sources/Usage.rst.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/html/_sources/index.rst.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/html/_static/alabaster.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/html/_static/basic.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/html/_static/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/html/_static/doctools.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/html/_static/documentation_options.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/html/_static/file.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/html/_static/language_data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/html/_static/minus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/html/_static/plus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/html/_static/pygments.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/html/_static/searchtools.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/html/_static/sphinx_highlight.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/html/genindex.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/html/objects.inv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/html/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/html/searchindex.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/LICRcyr2utf8.xdy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/LICRlatin2utf8.xdy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/LatinRules.xdy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/latexmkjarc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/latexmkrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/make.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/python.ist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinx.sty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinx.xdy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxhighlight.sty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxhowto.cls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxlatexadmonitions.sty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxlatexcontainers.sty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxlatexgraphics.sty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxlatexindbibtoc.sty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxlatexlists.sty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxlatexliterals.sty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxlatexnumfig.sty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxlatexobjects.sty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxlatexshadowbox.sty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxlatexstyleheadings.sty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxlatexstylepage.sty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxlatexstyletext.sty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxlatextables.sty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxmanual.cls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxmessages.sty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxoptionsgeometry.sty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxoptionshyperref.sty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxpackageboxes.sty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxpackagecyrillic.sty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxpackagefootnote.sty" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxtest.aux" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxtest.fdb_latexmk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxtest.fls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxtest.idx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxtest.ilg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxtest.ind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxtest.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxtest.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxtest.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxtest.tex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/build/latex/sphinxtest.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/make.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/source/conf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/source/index.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/source/usage.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/sphinx_test.py" afterDir="false" />
+    <list default="true" id="460a66c2-ac49-46ac-8ae4-fa4adc36e2ea" name="Changes" comment="Initial commit.">
+      <change afterPath="$PROJECT_DIR$/.readthedocs.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,8 +63,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706857484870</updated>
-      <workItem from="1706857486847" duration="5108000" />
+      <workItem from="1706857486847" duration="5977000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit.">
+      <option name="closed" value="true" />
+      <created>1706864900371</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706864900371</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,5 +81,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit." />
   </component>
 </project>
