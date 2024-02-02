@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="460a66c2-ac49-46ac-8ae4-fa4adc36e2ea" name="Changes" comment="Changed theme to 'RTD'.">
-      <change beforePath="$PROJECT_DIR$/docs/source/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/conf.py" afterDir="false" />
+    <list default="true" id="460a66c2-ac49-46ac-8ae4-fa4adc36e2ea" name="Changes" comment="r">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706857484870</updated>
-      <workItem from="1706857486847" duration="13088000" />
+      <workItem from="1706857486847" duration="13330000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit.">
       <option name="closed" value="true" />
@@ -248,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706876918021</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="r">
+      <option name="closed" value="true" />
+      <created>1706877074028</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1706877074028</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,9 +270,9 @@
     <MESSAGE value="Changed configuration to point to correct location of conf.py." />
     <MESSAGE value="Added nbsphinx." />
     <MESSAGE value="Switched HTML theme to 'Classic'." />
-    <MESSAGE value="r" />
     <MESSAGE value="Changed theme to 'bizstyle'." />
     <MESSAGE value="Changed theme to 'RTD'." />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed theme to 'RTD'." />
+    <MESSAGE value="r" />
+    <option name="LAST_COMMIT_MESSAGE" value="r" />
   </component>
 </project>
