@@ -23,7 +23,7 @@ extensions = [
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary'
-    'sphinx.ext.nbsphinx'
+    'nbsphinx'
 ]
 
 templates_path = ['_templates']
