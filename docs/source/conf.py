@@ -25,7 +25,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'nbsphinx',
-    'sphinx_rtd_theme'
+    'sphinx-rtd-theme',
 ]
 
 templates_path = ['_templates']
@@ -34,7 +34,7 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'sphinx-rtd-theme'
 # html_static_path = ['_static']
 html_theme_options = {
     'analytics_id': 'G-XXXXXXXXXX',  # Provided by Google in your dashboard
