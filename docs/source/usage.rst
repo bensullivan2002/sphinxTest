@@ -8,7 +8,7 @@ To use sphinxTest, you need to install it first. You can install it using pip:
 
 .. code-block:: console
 
-        $ pip install sphinxTest
+    $ pip install sphinxTest
 
 Functions
 ---------
