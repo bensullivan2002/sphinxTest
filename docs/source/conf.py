@@ -34,7 +34,7 @@ exclude_patterns = []
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'sphinx-rtd-theme'
-html_static_path = ['_static']
+# html_static_path = ['_static']
 html_theme_options = {
     'analytics_id': 'G-XXXXXXXXXX',  # Provided by Google in your dashboard
     'analytics_anonymize_ip': False,
